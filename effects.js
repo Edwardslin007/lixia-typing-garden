@@ -25,7 +25,7 @@
   function guideCaption(text,state='playing'){$('voice-caption').textContent=text;$('voice-status').dataset.state=state;}
   function updateReadiness(){
     const ready=$('audio-readiness');if(!ready)return;
-    ready.textContent=manifest?'MiMo 女声已连接。首次合成需联网，播放过的语音会缓存在这台电脑。':'语音还在准备。请稍后点“试听女声鼓励”，或重新打开网页。';
+    ready.textContent=manifest?'MiMo 按键与讲解读音已录制，少量动态提醒由云端生成。':'语音还在准备。请稍后点“试听女声鼓励”，或重新打开网页。';
     ready.dataset.ready=String(!!manifest);
   }
   const audioCache=new Map();let keyTicket=0,guideTicket=0;

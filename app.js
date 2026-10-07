@@ -76,8 +76,8 @@
     window.AccountSession?.observe(data,options);updateStorageStatus();
   }
   function updateStorageStatus() {
-    $('storage-status').textContent = storageHealthy ? '记录保存在此 Chrome 的本机数据里。清理浏览器数据前，请先备份。' : '浏览器暂时无法保存进度。请先用“备份练习记录”下载记录。';
-    document.querySelector('.local-note').lastChild.textContent = storageHealthy ? '进度自动保存在这台电脑' : '暂时无法保存，请在家长小窗备份';
+    $('storage-status').textContent = storageHealthy ? '记录先保存在此浏览器，联网后同步到当前账号的 GitHub 记录。也可以下载完整备份。' : '浏览器暂时无法保存进度。请先用“备份练习记录”下载记录。';
+    document.querySelector('.local-note').lastChild.textContent = storageHealthy ? '进度保存在本机，联网同步 GitHub' : '暂时无法保存，请在家长小窗备份';
   }
   function dayData() { const day=today(); if (!data.daily[day]) data.daily[day]={timeMs:0,flowers:0}; return data.daily[day]; }
   function recommended() { return lessons.find(l=>!data.completions[l.id]) || lessons[lessons.length-1]; }
