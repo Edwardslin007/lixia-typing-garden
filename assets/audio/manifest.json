@@ -1,0 +1,1099 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-07T20:33:24",
+  "provider": "Microsoft Edge neural TTS via edge-tts 7.2.8",
+  "voices": {
+    "Chinese": {
+      "shortName": "zh-CN-XiaoxiaoNeural",
+      "gender": "Female"
+    },
+    "English": {
+      "shortName": "en-US-AriaNeural",
+      "gender": "Female"
+    }
+  },
+  "pinyinMode": "school initials and single finals using Chinese pronunciation exemplars; v corresponds to ü",
+  "clips": {
+    "pinyin/a": {
+      "id": "pinyin/a",
+      "text": "阿",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/a.mp3",
+      "duration": 0.371917,
+      "bytes": 3692
+    },
+    "pinyin/b": {
+      "id": "pinyin/b",
+      "text": "玻",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/b.mp3",
+      "duration": 0.329208,
+      "bytes": 3308
+    },
+    "pinyin/c": {
+      "id": "pinyin/c",
+      "text": "疵",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/c.mp3",
+      "duration": 0.386917,
+      "bytes": 3884
+    },
+    "pinyin/d": {
+      "id": "pinyin/d",
+      "text": "得",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/d.mp3",
+      "duration": 0.353292,
+      "bytes": 3500
+    },
+    "pinyin/e": {
+      "id": "pinyin/e",
+      "text": "鹅",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/e.mp3",
+      "duration": 0.330917,
+      "bytes": 3308
+    },
+    "pinyin/f": {
+      "id": "pinyin/f",
+      "text": "佛",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/f.mp3",
+      "duration": 0.397167,
+      "bytes": 3884
+    },
+    "pinyin/g": {
+      "id": "pinyin/g",
+      "text": "哥",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/g.mp3",
+      "duration": 0.337958,
+      "bytes": 3500
+    },
+    "pinyin/h": {
+      "id": "pinyin/h",
+      "text": "喝",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/h.mp3",
+      "duration": 0.341333,
+      "bytes": 3500
+    },
+    "pinyin/i": {
+      "id": "pinyin/i",
+      "text": "衣",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/i.mp3",
+      "duration": 0.323458,
+      "bytes": 3308
+    },
+    "pinyin/j": {
+      "id": "pinyin/j",
+      "text": "鸡",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/j.mp3",
+      "duration": 0.337958,
+      "bytes": 3500
+    },
+    "pinyin/k": {
+      "id": "pinyin/k",
+      "text": "科",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/k.mp3",
+      "duration": 0.364333,
+      "bytes": 3692
+    },
+    "pinyin/l": {
+      "id": "pinyin/l",
+      "text": "勒",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/l.mp3",
+      "duration": 0.37425,
+      "bytes": 3692
+    },
+    "pinyin/m": {
+      "id": "pinyin/m",
+      "text": "摸",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/m.mp3",
+      "duration": 0.334667,
+      "bytes": 3308
+    },
+    "pinyin/n": {
+      "id": "pinyin/n",
+      "text": "呢",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/n.mp3",
+      "duration": 0.335,
+      "bytes": 3308
+    },
+    "pinyin/o": {
+      "id": "pinyin/o",
+      "text": "噢",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/o.mp3",
+      "duration": 0.29675,
+      "bytes": 3116
+    },
+    "pinyin/p": {
+      "id": "pinyin/p",
+      "text": "坡",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/p.mp3",
+      "duration": 0.351542,
+      "bytes": 3500
+    },
+    "pinyin/q": {
+      "id": "pinyin/q",
+      "text": "七",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/q.mp3",
+      "duration": 0.397667,
+      "bytes": 3884
+    },
+    "pinyin/r": {
+      "id": "pinyin/r",
+      "text": "日",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/r.mp3",
+      "duration": 0.350708,
+      "bytes": 3500
+    },
+    "pinyin/s": {
+      "id": "pinyin/s",
+      "text": "丝",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/s.mp3",
+      "duration": 0.417083,
+      "bytes": 4076
+    },
+    "pinyin/t": {
+      "id": "pinyin/t",
+      "text": "特",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/t.mp3",
+      "duration": 0.369708,
+      "bytes": 3692
+    },
+    "pinyin/u": {
+      "id": "pinyin/u",
+      "text": "乌",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/u.mp3",
+      "duration": 0.344,
+      "bytes": 3500
+    },
+    "pinyin/v": {
+      "id": "pinyin/v",
+      "text": "迂",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/v.mp3",
+      "duration": 0.307625,
+      "bytes": 3116
+    },
+    "pinyin/w": {
+      "id": "pinyin/w",
+      "text": "乌",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/w.mp3",
+      "duration": 0.344,
+      "bytes": 3500
+    },
+    "pinyin/x": {
+      "id": "pinyin/x",
+      "text": "西",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/x.mp3",
+      "duration": 0.401042,
+      "bytes": 3884
+    },
+    "pinyin/y": {
+      "id": "pinyin/y",
+      "text": "衣",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/y.mp3",
+      "duration": 0.323458,
+      "bytes": 3308
+    },
+    "pinyin/z": {
+      "id": "pinyin/z",
+      "text": "资",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-12%",
+      "url": "/assets/audio/pinyin/z.mp3",
+      "duration": 0.364542,
+      "bytes": 3692
+    },
+    "english/a": {
+      "id": "english/a",
+      "text": "A.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/a.mp3",
+      "duration": 0.387958,
+      "bytes": 3884
+    },
+    "english/b": {
+      "id": "english/b",
+      "text": "B.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/b.mp3",
+      "duration": 0.434958,
+      "bytes": 4268
+    },
+    "english/c": {
+      "id": "english/c",
+      "text": "C.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/c.mp3",
+      "duration": 0.555292,
+      "bytes": 5228
+    },
+    "english/d": {
+      "id": "english/d",
+      "text": "D.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/d.mp3",
+      "duration": 0.473625,
+      "bytes": 4460
+    },
+    "english/e": {
+      "id": "english/e",
+      "text": "E.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/e.mp3",
+      "duration": 0.344208,
+      "bytes": 3500
+    },
+    "english/f": {
+      "id": "english/f",
+      "text": "F.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/f.mp3",
+      "duration": 0.28125,
+      "bytes": 2924
+    },
+    "english/g": {
+      "id": "english/g",
+      "text": "G.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/g.mp3",
+      "duration": 0.495167,
+      "bytes": 4652
+    },
+    "english/h": {
+      "id": "english/h",
+      "text": "H.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/h.mp3",
+      "duration": 0.512417,
+      "bytes": 4844
+    },
+    "english/i": {
+      "id": "english/i",
+      "text": "I.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/i.mp3",
+      "duration": 0.402833,
+      "bytes": 3884
+    },
+    "english/j": {
+      "id": "english/j",
+      "text": "J.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/j.mp3",
+      "duration": 0.593167,
+      "bytes": 5420
+    },
+    "english/k": {
+      "id": "english/k",
+      "text": "K.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/k.mp3",
+      "duration": 0.547292,
+      "bytes": 5036
+    },
+    "english/l": {
+      "id": "english/l",
+      "text": "L.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/l.mp3",
+      "duration": 0.52225,
+      "bytes": 4844
+    },
+    "english/m": {
+      "id": "english/m",
+      "text": "M.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/m.mp3",
+      "duration": 0.477625,
+      "bytes": 4460
+    },
+    "english/n": {
+      "id": "english/n",
+      "text": "N.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/n.mp3",
+      "duration": 0.481958,
+      "bytes": 4652
+    },
+    "english/o": {
+      "id": "english/o",
+      "text": "O.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/o.mp3",
+      "duration": 0.351167,
+      "bytes": 3500
+    },
+    "english/p": {
+      "id": "english/p",
+      "text": "P.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/p.mp3",
+      "duration": 0.464042,
+      "bytes": 4460
+    },
+    "english/q": {
+      "id": "english/q",
+      "text": "Q.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/q.mp3",
+      "duration": 0.467667,
+      "bytes": 4460
+    },
+    "english/r": {
+      "id": "english/r",
+      "text": "R.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/r.mp3",
+      "duration": 0.50275,
+      "bytes": 4652
+    },
+    "english/s": {
+      "id": "english/s",
+      "text": "S.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/s.mp3",
+      "duration": 0.515375,
+      "bytes": 4844
+    },
+    "english/t": {
+      "id": "english/t",
+      "text": "T.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/t.mp3",
+      "duration": 0.48925,
+      "bytes": 4652
+    },
+    "english/u": {
+      "id": "english/u",
+      "text": "U.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/u.mp3",
+      "duration": 0.483917,
+      "bytes": 4652
+    },
+    "english/v": {
+      "id": "english/v",
+      "text": "V.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/v.mp3",
+      "duration": 0.516375,
+      "bytes": 4844
+    },
+    "english/w": {
+      "id": "english/w",
+      "text": "W.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/w.mp3",
+      "duration": 0.694958,
+      "bytes": 6188
+    },
+    "english/x": {
+      "id": "english/x",
+      "text": "X.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/x.mp3",
+      "duration": 0.495917,
+      "bytes": 4652
+    },
+    "english/y": {
+      "id": "english/y",
+      "text": "Y.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/y.mp3",
+      "duration": 0.554833,
+      "bytes": 5228
+    },
+    "english/z": {
+      "id": "english/z",
+      "text": "Z.",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/z.mp3",
+      "duration": 0.520833,
+      "bytes": 4844
+    },
+    "pinyin/0": {
+      "id": "pinyin/0",
+      "text": "零",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/0.mp3",
+      "duration": 0.337958,
+      "bytes": 3500
+    },
+    "pinyin/1": {
+      "id": "pinyin/1",
+      "text": "一",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/1.mp3",
+      "duration": 0.303542,
+      "bytes": 3116
+    },
+    "pinyin/2": {
+      "id": "pinyin/2",
+      "text": "二",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/2.mp3",
+      "duration": 0.352167,
+      "bytes": 3500
+    },
+    "pinyin/3": {
+      "id": "pinyin/3",
+      "text": "三",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/3.mp3",
+      "duration": 0.391833,
+      "bytes": 3884
+    },
+    "pinyin/4": {
+      "id": "pinyin/4",
+      "text": "四",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/4.mp3",
+      "duration": 0.404167,
+      "bytes": 3884
+    },
+    "pinyin/5": {
+      "id": "pinyin/5",
+      "text": "五",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/5.mp3",
+      "duration": 0.330167,
+      "bytes": 3308
+    },
+    "pinyin/6": {
+      "id": "pinyin/6",
+      "text": "六",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/6.mp3",
+      "duration": 0.332958,
+      "bytes": 3308
+    },
+    "pinyin/7": {
+      "id": "pinyin/7",
+      "text": "七",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/7.mp3",
+      "duration": 0.379333,
+      "bytes": 3692
+    },
+    "pinyin/8": {
+      "id": "pinyin/8",
+      "text": "八",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/8.mp3",
+      "duration": 0.339458,
+      "bytes": 3500
+    },
+    "pinyin/9": {
+      "id": "pinyin/9",
+      "text": "九",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/pinyin/9.mp3",
+      "duration": 0.33,
+      "bytes": 3308
+    },
+    "english/0": {
+      "id": "english/0",
+      "text": "zero",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/0.mp3",
+      "duration": 0.679042,
+      "bytes": 6188
+    },
+    "english/1": {
+      "id": "english/1",
+      "text": "one",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/1.mp3",
+      "duration": 0.488833,
+      "bytes": 4652
+    },
+    "english/2": {
+      "id": "english/2",
+      "text": "two",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/2.mp3",
+      "duration": 0.499417,
+      "bytes": 4652
+    },
+    "english/3": {
+      "id": "english/3",
+      "text": "three",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/3.mp3",
+      "duration": 0.492708,
+      "bytes": 4652
+    },
+    "english/4": {
+      "id": "english/4",
+      "text": "four",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/4.mp3",
+      "duration": 0.577958,
+      "bytes": 5420
+    },
+    "english/5": {
+      "id": "english/5",
+      "text": "five",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/5.mp3",
+      "duration": 0.455083,
+      "bytes": 4268
+    },
+    "english/6": {
+      "id": "english/6",
+      "text": "six",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/6.mp3",
+      "duration": 0.680583,
+      "bytes": 6188
+    },
+    "english/7": {
+      "id": "english/7",
+      "text": "seven",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/7.mp3",
+      "duration": 0.635458,
+      "bytes": 5804
+    },
+    "english/8": {
+      "id": "english/8",
+      "text": "eight",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/8.mp3",
+      "duration": 0.423,
+      "bytes": 4076
+    },
+    "english/9": {
+      "id": "english/9",
+      "text": "nine",
+      "voice": "en-US-AriaNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/english/9.mp3",
+      "duration": 0.5975,
+      "bytes": 5420
+    },
+    "keys/space": {
+      "id": "keys/space",
+      "text": "空格",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/space.mp3",
+      "duration": 0.581625,
+      "bytes": 5420
+    },
+    "keys/semicolon": {
+      "id": "keys/semicolon",
+      "text": "分号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/semicolon.mp3",
+      "duration": 0.5165,
+      "bytes": 4844
+    },
+    "keys/comma": {
+      "id": "keys/comma",
+      "text": "逗号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/comma.mp3",
+      "duration": 0.527083,
+      "bytes": 4844
+    },
+    "keys/period": {
+      "id": "keys/period",
+      "text": "句号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/period.mp3",
+      "duration": 0.553958,
+      "bytes": 5228
+    },
+    "keys/question": {
+      "id": "keys/question",
+      "text": "问号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/question.mp3",
+      "duration": 0.518958,
+      "bytes": 4844
+    },
+    "keys/exclamation": {
+      "id": "keys/exclamation",
+      "text": "感叹号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/exclamation.mp3",
+      "duration": 0.712917,
+      "bytes": 6380
+    },
+    "keys/shift": {
+      "id": "keys/shift",
+      "text": "Shift，大写辅助键",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/shift.mp3",
+      "duration": 1.921958,
+      "bytes": 16172
+    },
+    "keys/enter": {
+      "id": "keys/enter",
+      "text": "回车",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/enter.mp3",
+      "duration": 0.58525,
+      "bytes": 5420
+    },
+    "keys/backspace": {
+      "id": "keys/backspace",
+      "text": "退格",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/backspace.mp3",
+      "duration": 0.596208,
+      "bytes": 5420
+    },
+    "keys/capslock": {
+      "id": "keys/capslock",
+      "text": "大写锁定",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/capslock.mp3",
+      "duration": 0.972,
+      "bytes": 8492
+    },
+    "keys/numlock": {
+      "id": "keys/numlock",
+      "text": "数字锁定",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/numlock.mp3",
+      "duration": 1.003333,
+      "bytes": 8684
+    },
+    "keys/plus": {
+      "id": "keys/plus",
+      "text": "加号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/plus.mp3",
+      "duration": 0.534458,
+      "bytes": 5036
+    },
+    "keys/minus": {
+      "id": "keys/minus",
+      "text": "减号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/minus.mp3",
+      "duration": 0.556833,
+      "bytes": 5228
+    },
+    "keys/multiply": {
+      "id": "keys/multiply",
+      "text": "乘号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/multiply.mp3",
+      "duration": 0.556792,
+      "bytes": 5228
+    },
+    "keys/divide": {
+      "id": "keys/divide",
+      "text": "除号",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/divide.mp3",
+      "duration": 0.549625,
+      "bytes": 5036
+    },
+    "keys/escape": {
+      "id": "keys/escape",
+      "text": "暂停",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-8%",
+      "url": "/assets/audio/keys/escape.mp3",
+      "duration": 0.642375,
+      "bytes": 5804
+    },
+    "prompts/welcome": {
+      "id": "prompts/welcome",
+      "text": "立夏，欢迎来到打字小花园。小兔已经准备好啦，我们一起慢慢练习吧。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/welcome.mp3",
+      "duration": 6.652042,
+      "bytes": 53996
+    },
+    "prompts/guide": {
+      "id": "prompts/guide",
+      "text": "左手食指摸到 F 的小凸起，右手食指摸到 J 的小凸起。其他手指自然排开。按一下，再回到自己的家。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/guide.mp3",
+      "duration": 10.14725,
+      "bytes": 81836
+    },
+    "prompts/start-home": {
+      "id": "prompts/start-home",
+      "text": "把小手放回中间一排。看一看屏幕上的字母，用提示的手指轻轻按。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-home.mp3",
+      "duration": 6.424792,
+      "bytes": 52076
+    },
+    "prompts/start-upper": {
+      "id": "prompts/start-upper",
+      "text": "手指向上探一步，按完再回家。找准字母，慢慢来。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-upper.mp3",
+      "duration": 5.295125,
+      "bytes": 43052
+    },
+    "prompts/start-lower": {
+      "id": "prompts/start-lower",
+      "text": "这次认识下面一排。按完一个键，小手记得回家。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-lower.mp3",
+      "duration": 4.685125,
+      "bytes": 38252
+    },
+    "prompts/start-pinyin": {
+      "id": "prompts/start-pinyin",
+      "text": "照着屏幕打拼音，直接按英文字母。拼音之间的空格，用拇指轻轻按。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-pinyin.mp3",
+      "duration": 6.689583,
+      "bytes": 54188
+    },
+    "prompts/start-digits": {
+      "id": "prompts/start-digits",
+      "text": "先认识字母上面一排的数字。看一看亮着的键，再用提示的手指按。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-digits.mp3",
+      "duration": 6.165458,
+      "bytes": 49964
+    },
+    "prompts/start-shift": {
+      "id": "prompts/start-shift",
+      "text": "大写字母需要两个小帮手。另一只手的小指按住 Shift，再按字母，按完就松开。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-shift.mp3",
+      "duration": 7.71375,
+      "bytes": 62444
+    },
+    "prompts/start-symbols": {
+      "id": "prompts/start-symbols",
+      "text": "逗号和句号也来做朋友啦。问号和感叹号，要请 Shift 帮忙。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-symbols.mp3",
+      "duration": 5.805833,
+      "bytes": 47084
+    },
+    "prompts/start-numpad": {
+      "id": "prompts/start-numpad",
+      "text": "数字小键盘在电脑右边。先打开 Num Lock。右食指放四，中指放五，无名指放六，零用右拇指。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/start-numpad.mp3",
+      "duration": 10.278042,
+      "bytes": 82988
+    },
+    "prompts/mistake-1": {
+      "id": "prompts/mistake-1",
+      "text": "没关系，看看亮着的键，慢慢再试一次。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/mistake-1.mp3",
+      "duration": 3.647333,
+      "bytes": 29804
+    },
+    "prompts/mistake-2": {
+      "id": "prompts/mistake-2",
+      "text": "别着急，小手先回家，认准这个键再按。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/mistake-2.mp3",
+      "duration": 3.641708,
+      "bytes": 29804
+    },
+    "prompts/mistake-3": {
+      "id": "prompts/mistake-3",
+      "text": "按错也没关系。认真找一找，你一定能找到它。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/mistake-3.mp3",
+      "duration": 4.458667,
+      "bytes": 36332
+    },
+    "prompts/milestone-1": {
+      "id": "prompts/milestone-1",
+      "text": "完成一个小目标啦！这朵小红花送给认真的你。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/milestone-1.mp3",
+      "duration": 4.351042,
+      "bytes": 35564
+    },
+    "prompts/milestone-2": {
+      "id": "prompts/milestone-2",
+      "text": "你又按准了八个键，小红花飞进小口袋啦！",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/milestone-2.mp3",
+      "duration": 3.380958,
+      "bytes": 27692
+    },
+    "prompts/complete-high": {
+      "id": "prompts/complete-high",
+      "text": "太棒了！这一关完成啦，按得又稳又准。看看你收集的小红花吧。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/complete-high.mp3",
+      "duration": 6.621625,
+      "bytes": 53612
+    },
+    "prompts/complete-steady": {
+      "id": "prompts/complete-steady",
+      "text": "做得很好，这一关完成啦！每一次认真，都让你进步一点点。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/complete-steady.mp3",
+      "duration": 5.5025,
+      "bytes": 44780
+    },
+    "prompts/complete-kind": {
+      "id": "prompts/complete-kind",
+      "text": "你坚持完成了这一关，真认真！我们再慢一点练，手指会越来越熟悉。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/complete-kind.mp3",
+      "duration": 6.276833,
+      "bytes": 50924
+    },
+    "prompts/pause": {
+      "id": "prompts/pause",
+      "text": "已经暂停啦。准备好之后，点继续练习就可以接着来。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/pause.mp3",
+      "duration": 5.198458,
+      "bytes": 42284
+    },
+    "prompts/idle": {
+      "id": "prompts/idle",
+      "text": "我们先暂停一下。准备好后，再来继续照顾小花园。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/idle.mp3",
+      "duration": 4.775792,
+      "bytes": 38828
+    },
+    "prompts/break": {
+      "id": "prompts/break",
+      "text": "小手已经认真练了一会儿，该休息啦。站起来动一动，看看远处，再回来继续。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/break.mp3",
+      "duration": 7.127042,
+      "bytes": 57644
+    },
+    "prompts/ime": {
+      "id": "prompts/ime",
+      "text": "现在在练键位。请爸爸妈妈帮你切到英文输入，再点练习区继续。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/ime.mp3",
+      "duration": 6.446333,
+      "bytes": 52268
+    },
+    "prompts/capslock": {
+      "id": "prompts/capslock",
+      "text": "大写锁定开着，请关掉 Caps Lock。练大写字母时，再用 Shift 帮忙。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/capslock.mp3",
+      "duration": 6.464125,
+      "bytes": 52460
+    },
+    "prompts/numlock": {
+      "id": "prompts/numlock",
+      "text": "先按一下 Num Lock，打开右边的数字小键盘，再来试一次。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/numlock.mp3",
+      "duration": 5.132917,
+      "bytes": 41708
+    },
+    "prompts/top-row": {
+      "id": "prompts/top-row",
+      "text": "这一关请用电脑右边的数字小键盘，找一找右边的数字键。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/top-row.mp3",
+      "duration": 4.923417,
+      "bytes": 40172
+    },
+    "prompts/backspace": {
+      "id": "prompts/backspace",
+      "text": "按错的字没有写进去，不用删除。直接按正确的键就好。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/backspace.mp3",
+      "duration": 5.218292,
+      "bytes": 42476
+    },
+    "prompts/repeat": {
+      "id": "prompts/repeat",
+      "text": "每次轻按一下，松开后，再按下一个。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/repeat.mp3",
+      "duration": 3.407875,
+      "bytes": 27884
+    },
+    "prompts/shift-help": {
+      "id": "prompts/shift-help",
+      "text": "这个键需要 Shift 帮忙。用另一只手的小指按住 Shift，再试一次。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/shift-help.mp3",
+      "duration": 6.25925,
+      "bytes": 50732
+    },
+    "prompts/release-shift": {
+      "id": "prompts/release-shift",
+      "text": "先松开 Shift，再直接按这个键就好。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/release-shift.mp3",
+      "duration": 3.077917,
+      "bytes": 25388
+    },
+    "prompts/review": {
+      "id": "prompts/review",
+      "text": "这些键以前有一点难。今天我们再认识一次，不着急，慢慢按准。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/review.mp3",
+      "duration": 6.29125,
+      "bytes": 51116
+    },
+    "prompts/rest-done": {
+      "id": "prompts/rest-done",
+      "text": "休息好啦，我们继续。从屏幕上这个字母开始。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/rest-done.mp3",
+      "duration": 4.435125,
+      "bytes": 36140
+    },
+    "prompts/daily-done": {
+      "id": "prompts/daily-done",
+      "text": "今天的小目标完成啦！你已经很认真了，记得给小手放个假。",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "rate": "-5%",
+      "url": "/assets/audio/prompts/daily-done.mp3",
+      "duration": 5.240083,
+      "bytes": 42668
+    }
+  },
+  "failures": []
+}

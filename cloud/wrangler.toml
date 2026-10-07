@@ -1,0 +1,12 @@
+name = "lixia-typing-garden-api-v1"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+account_id = "e815a8482d11e1aa437fe3fc168af51c"
+workers_dev = true
+
+[vars]
+GITHUB_REPO = "Edwardslin007/lixia-typing-garden-data"
+GITHUB_BRANCH = "main"
+ALLOWED_ACCOUNTS = "lixia"
+ALLOWED_ORIGINS = "https://edwardslin007.github.io,http://127.0.0.1:8878,http://localhost:8878"
+MIMO_BASE_URL = "https://mimo.ezlook.top/v1"

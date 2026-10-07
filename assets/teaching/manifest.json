@@ -1,0 +1,522 @@
+{
+  "Escape": {
+    "url": "assets/teaching/Escape.wav",
+    "text": "Esc · 退出键。想关掉一个小窗口或取消刚才的操作，可以试试它。在小花园里，Esc 可以暂停。",
+    "bytes": 583724
+  },
+  "F1": {
+    "url": "assets/teaching/F1.wav",
+    "text": "F1 是功能键。不同软件会给它安排不同任务。很多软件用 F1 打开帮助。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 875564
+  },
+  "F2": {
+    "url": "assets/teaching/F2.wav",
+    "text": "F2 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 798764
+  },
+  "F3": {
+    "url": "assets/teaching/F3.wav",
+    "text": "F3 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 714284
+  },
+  "F4": {
+    "url": "assets/teaching/F4.wav",
+    "text": "F4 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 691244
+  },
+  "F5": {
+    "url": "assets/teaching/F5.wav",
+    "text": "F5 是功能键。不同软件会给它安排不同任务。浏览器里 F5 通常刷新页面。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 929324
+  },
+  "F6": {
+    "url": "assets/teaching/F6.wav",
+    "text": "F6 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 683564
+  },
+  "F7": {
+    "url": "assets/teaching/F7.wav",
+    "text": "F7 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 806444
+  },
+  "F8": {
+    "url": "assets/teaching/F8.wav",
+    "text": "F8 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 721964
+  },
+  "F9": {
+    "url": "assets/teaching/F9.wav",
+    "text": "F9 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 745004
+  },
+  "F10": {
+    "url": "assets/teaching/F10.wav",
+    "text": "F10 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 783404
+  },
+  "F11": {
+    "url": "assets/teaching/F11.wav",
+    "text": "F11 是功能键。不同软件会给它安排不同任务。照片上的小图案表示声音、屏幕等本领，有时要按住 Fn 配合。",
+    "bytes": 698924
+  },
+  "Insert": {
+    "url": "assets/teaching/Insert.wav",
+    "text": "Insert · 插入键。写字时有些软件用它切换插入和覆盖。初学时通常不用按它。",
+    "bytes": 568364
+  },
+  "Home": {
+    "url": "assets/teaching/Home.wav",
+    "text": "Home · 行首键。写文章时，常把光标送到这一行的开头。Home 的意思是家。",
+    "bytes": 430124
+  },
+  "End": {
+    "url": "assets/teaching/End.wav",
+    "text": "End · 行尾键。写文章时，常把光标送到这一行的末尾。End 的意思是结束。",
+    "bytes": 499244
+  },
+  "Delete": {
+    "url": "assets/teaching/Delete.wav",
+    "text": "Delete · 删除键。写文章时，它常常删掉光标右边的字。先看清楚要删什么再按。",
+    "bytes": 522284
+  },
+  "LaunchApp2": {
+    "url": "assets/teaching/LaunchApp2.wav",
+    "text": "计算器快捷键。按它可能打开电脑的计算器，具体效果由电脑设置决定。",
+    "bytes": 514604
+  },
+  "NumpadParenLeft": {
+    "url": "assets/teaching/NumpadParenLeft.wav",
+    "text": "小键盘上方的括号键，用来输入括号。它与字母右边的方括号位置不同。",
+    "bytes": 476204
+  },
+  "NumpadParenRight": {
+    "url": "assets/teaching/NumpadParenRight.wav",
+    "text": "小键盘上方的括号键，用来输入括号。它与字母右边的方括号位置不同。",
+    "bytes": 476204
+  },
+  "NumpadBackspace": {
+    "url": "assets/teaching/NumpadBackspace.wav",
+    "text": "小键盘上方的退格键，用来删掉光标左边的字。部分电脑按住 Fn 使用月亮图标的睡眠功能。",
+    "bytes": 576044
+  },
+  "Backquote": {
+    "url": "assets/teaching/Backquote.wav",
+    "text": "反引号键。直接按，写出 `；按住 Shift 再按，写出波浪号 ~。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 745004
+  },
+  "Digit1": {
+    "url": "assets/teaching/Digit1.wav",
+    "text": "数字 1。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 ! 符号。",
+    "bytes": 468524
+  },
+  "Digit2": {
+    "url": "assets/teaching/Digit2.wav",
+    "text": "数字 2。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 @ 符号。",
+    "bytes": 445484
+  },
+  "Digit3": {
+    "url": "assets/teaching/Digit3.wav",
+    "text": "数字 3。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 # 符号。",
+    "bytes": 499244
+  },
+  "Digit4": {
+    "url": "assets/teaching/Digit4.wav",
+    "text": "数字 4。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 $ 符号。",
+    "bytes": 522284
+  },
+  "Digit5": {
+    "url": "assets/teaching/Digit5.wav",
+    "text": "数字 5。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 % 符号。",
+    "bytes": 522284
+  },
+  "Digit6": {
+    "url": "assets/teaching/Digit6.wav",
+    "text": "数字 6。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 ^ 符号。",
+    "bytes": 491564
+  },
+  "Digit7": {
+    "url": "assets/teaching/Digit7.wav",
+    "text": "数字 7。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 & 符号。",
+    "bytes": 453164
+  },
+  "Digit8": {
+    "url": "assets/teaching/Digit8.wav",
+    "text": "数字 8。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 * 符号。",
+    "bytes": 499244
+  },
+  "Digit9": {
+    "url": "assets/teaching/Digit9.wav",
+    "text": "数字 9。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 ( 符号。",
+    "bytes": 437804
+  },
+  "Digit0": {
+    "url": "assets/teaching/Digit0.wav",
+    "text": "数字 0。直接按可以写这个数字，按住 Shift 再按，可以写出上方的 ) 符号。",
+    "bytes": 483884
+  },
+  "Minus": {
+    "url": "assets/teaching/Minus.wav",
+    "text": "减号键。直接按，写出 -；按住 Shift 再按，写出下划线 _。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 698924
+  },
+  "Equal": {
+    "url": "assets/teaching/Equal.wav",
+    "text": "等号键。直接按，写出 =；按住 Shift 再按，写出加号 +。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 783404
+  },
+  "Backspace": {
+    "url": "assets/teaching/Backspace.wav",
+    "text": "Backspace · 退格键。光标左边的字写错了，按一下就删掉左边一个字。",
+    "bytes": 414764
+  },
+  "Tab": {
+    "url": "assets/teaching/Tab.wav",
+    "text": "Tab · 制表键。写文章时，它能让光标向前空出一段。在网页上，按它可以找到下一个按钮。",
+    "bytes": 499244
+  },
+  "KeyQ": {
+    "url": "assets/teaching/KeyQ.wav",
+    "text": "Q 是英文字母键。直接按通常输入小写 q；按住 Shift 可以输入大写 Q。练习时用左手小指按它，再回到中间一排。",
+    "bytes": 721964
+  },
+  "KeyW": {
+    "url": "assets/teaching/KeyW.wav",
+    "text": "W 是英文字母键。直接按通常输入小写 w；按住 Shift 可以输入大写 W。练习时用左手无名指按它，再回到中间一排。",
+    "bytes": 783404
+  },
+  "KeyE": {
+    "url": "assets/teaching/KeyE.wav",
+    "text": "E 是英文字母键。直接按通常输入小写 e；按住 Shift 可以输入大写 E。练习时用左手中指按它，再回到中间一排。",
+    "bytes": 768044
+  },
+  "KeyR": {
+    "url": "assets/teaching/KeyR.wav",
+    "text": "R 是英文字母键。直接按通常输入小写 r；按住 Shift 可以输入大写 R。练习时用左手食指按它，再回到中间一排。",
+    "bytes": 814124
+  },
+  "KeyT": {
+    "url": "assets/teaching/KeyT.wav",
+    "text": "T 是英文字母键。直接按通常输入小写 t；按住 Shift 可以输入大写 T。练习时用左手食指按它，再回到中间一排。",
+    "bytes": 698924
+  },
+  "KeyY": {
+    "url": "assets/teaching/KeyY.wav",
+    "text": "Y 是英文字母键。直接按通常输入小写 y；按住 Shift 可以输入大写 Y。练习时用右手食指按它，再回到中间一排。",
+    "bytes": 691244
+  },
+  "KeyU": {
+    "url": "assets/teaching/KeyU.wav",
+    "text": "U 是英文字母键。直接按通常输入小写 u；按住 Shift 可以输入大写 U。练习时用右手食指按它，再回到中间一排。",
+    "bytes": 729644
+  },
+  "KeyI": {
+    "url": "assets/teaching/KeyI.wav",
+    "text": "I 是英文字母键。直接按通常输入小写 i；按住 Shift 可以输入大写 I。练习时用右手中指按它，再回到中间一排。",
+    "bytes": 706604
+  },
+  "KeyO": {
+    "url": "assets/teaching/KeyO.wav",
+    "text": "O 是英文字母键。直接按通常输入小写 o；按住 Shift 可以输入大写 O。练习时用右手无名指按它，再回到中间一排。",
+    "bytes": 729644
+  },
+  "KeyP": {
+    "url": "assets/teaching/KeyP.wav",
+    "text": "P 是英文字母键。直接按通常输入小写 p；按住 Shift 可以输入大写 P。练习时用右手小指按它，再回到中间一排。",
+    "bytes": 714284
+  },
+  "BracketLeft": {
+    "url": "assets/teaching/BracketLeft.wav",
+    "text": "左方括号键。直接按，写出 [；按住 Shift 再按，写出左大括号 {。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 752684
+  },
+  "BracketRight": {
+    "url": "assets/teaching/BracketRight.wav",
+    "text": "右方括号键。直接按，写出 ]；按住 Shift 再按，写出右大括号 }。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 737324
+  },
+  "Backslash": {
+    "url": "assets/teaching/Backslash.wav",
+    "text": "反斜杠键。直接按，写出 \\；按住 Shift 再按，写出竖线 |。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 668204
+  },
+  "CapsLock": {
+    "url": "assets/teaching/CapsLock.wav",
+    "text": "Caps Lock · 大写锁定。打开以后，英文字母会一直变成大写。再按一下就关掉。输入密码时要看看它有没有亮。",
+    "bytes": 660524
+  },
+  "KeyA": {
+    "url": "assets/teaching/KeyA.wav",
+    "text": "A 是英文字母键。直接按通常输入小写 a；按住 Shift 可以输入大写 A。练习时用左手小指按它，再回到中间一排。",
+    "bytes": 706604
+  },
+  "KeyS": {
+    "url": "assets/teaching/KeyS.wav",
+    "text": "S 是英文字母键。直接按通常输入小写 s；按住 Shift 可以输入大写 S。练习时用左手无名指按它，再回到中间一排。",
+    "bytes": 798764
+  },
+  "KeyD": {
+    "url": "assets/teaching/KeyD.wav",
+    "text": "D 是英文字母键。直接按通常输入小写 d；按住 Shift 可以输入大写 D。练习时用左手中指按它，再回到中间一排。",
+    "bytes": 752684
+  },
+  "KeyF": {
+    "url": "assets/teaching/KeyF.wav",
+    "text": "F 是英文字母键。直接按通常输入小写 f；按住 Shift 可以输入大写 F。左手食指的家，摸一摸小凸起。",
+    "bytes": 714284
+  },
+  "KeyG": {
+    "url": "assets/teaching/KeyG.wav",
+    "text": "G 是英文字母键。直接按通常输入小写 g；按住 Shift 可以输入大写 G。练习时用左手食指按它，再回到中间一排。",
+    "bytes": 737324
+  },
+  "KeyH": {
+    "url": "assets/teaching/KeyH.wav",
+    "text": "H 是英文字母键。直接按通常输入小写 h；按住 Shift 可以输入大写 H。练习时用右手食指按它，再回到中间一排。",
+    "bytes": 783404
+  },
+  "KeyJ": {
+    "url": "assets/teaching/KeyJ.wav",
+    "text": "J 是英文字母键。直接按通常输入小写 j；按住 Shift 可以输入大写 J。右手食指的家，摸一摸小凸起。",
+    "bytes": 606764
+  },
+  "KeyK": {
+    "url": "assets/teaching/KeyK.wav",
+    "text": "K 是英文字母键。直接按通常输入小写 k；按住 Shift 可以输入大写 K。练习时用右手中指按它，再回到中间一排。",
+    "bytes": 706604
+  },
+  "KeyL": {
+    "url": "assets/teaching/KeyL.wav",
+    "text": "L 是英文字母键。直接按通常输入小写 l；按住 Shift 可以输入大写 L。练习时用右手无名指按它，再回到中间一排。",
+    "bytes": 860204
+  },
+  "Semicolon": {
+    "url": "assets/teaching/Semicolon.wav",
+    "text": "分号键。直接按，写出 ;；按住 Shift 再按，写出冒号 :。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 668204
+  },
+  "Quote": {
+    "url": "assets/teaching/Quote.wav",
+    "text": "单引号键。直接按，写出 '；按住 Shift 再按，写出双引号 \"。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 660524
+  },
+  "Enter": {
+    "url": "assets/teaching/Enter.wav",
+    "text": "Enter · 回车键。写文章时用来换到下一行。填完答案时，常用它来确认。",
+    "bytes": 468524
+  },
+  "ShiftLeft": {
+    "url": "assets/teaching/ShiftLeft.wav",
+    "text": "Shift · 大写辅助键。按住它再按字母，可以写出大写字母。按住它再按数字，能打出键帽上方的符号。",
+    "bytes": 675884
+  },
+  "KeyZ": {
+    "url": "assets/teaching/KeyZ.wav",
+    "text": "Z 是英文字母键。直接按通常输入小写 z；按住 Shift 可以输入大写 Z。练习时用左手小指按它，再回到中间一排。",
+    "bytes": 821804
+  },
+  "KeyX": {
+    "url": "assets/teaching/KeyX.wav",
+    "text": "X 是英文字母键。直接按通常输入小写 x；按住 Shift 可以输入大写 X。练习时用左手无名指按它，再回到中间一排。",
+    "bytes": 852524
+  },
+  "KeyC": {
+    "url": "assets/teaching/KeyC.wav",
+    "text": "C 是英文字母键。直接按通常输入小写 c；按住 Shift 可以输入大写 C。练习时用左手中指按它，再回到中间一排。",
+    "bytes": 706604
+  },
+  "KeyV": {
+    "url": "assets/teaching/KeyV.wav",
+    "text": "V 是英文字母键。直接按通常输入小写 v；按住 Shift 可以输入大写 V。练习时用左手食指按它，再回到中间一排。",
+    "bytes": 714284
+  },
+  "KeyB": {
+    "url": "assets/teaching/KeyB.wav",
+    "text": "B 是英文字母键。直接按通常输入小写 b；按住 Shift 可以输入大写 B。练习时用左手食指按它，再回到中间一排。",
+    "bytes": 783404
+  },
+  "KeyN": {
+    "url": "assets/teaching/KeyN.wav",
+    "text": "N 是英文字母键。直接按通常输入小写 n；按住 Shift 可以输入大写 N。练习时用右手食指按它，再回到中间一排。",
+    "bytes": 721964
+  },
+  "KeyM": {
+    "url": "assets/teaching/KeyM.wav",
+    "text": "M 是英文字母键。直接按通常输入小写 m；按住 Shift 可以输入大写 M。练习时用右手食指按它，再回到中间一排。",
+    "bytes": 783404
+  },
+  "Comma": {
+    "url": "assets/teaching/Comma.wav",
+    "text": "逗号键。直接按，写出 ,；按住 Shift 再按，写出小于号 <。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 683564
+  },
+  "Period": {
+    "url": "assets/teaching/Period.wav",
+    "text": "句号键。直接按，写出 .；按住 Shift 再按，写出大于号 >。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 698924
+  },
+  "Slash": {
+    "url": "assets/teaching/Slash.wav",
+    "text": "斜杠键。直接按，写出 /；按住 Shift 再按，写出问号 ?。这是英文半角符号，中文输入法里显示可能不同。",
+    "bytes": 660524
+  },
+  "ShiftRight": {
+    "url": "assets/teaching/ShiftRight.wav",
+    "text": "Shift · 大写辅助键。它和左边的 Shift 本领一样。用另一只手的小指帮忙，大写和符号就容易打了。",
+    "bytes": 660524
+  },
+  "ControlLeft": {
+    "url": "assets/teaching/ControlLeft.wav",
+    "text": "Ctrl · 控制键。它是快捷键的小帮手。比如按住 Ctrl 再按 C 可以复制，Ctrl 加 V 可以粘贴。",
+    "bytes": 606764
+  },
+  "Fn": {
+    "url": "assets/teaching/Fn.wav",
+    "text": "Fn · 功能辅助键。按住 Fn 再按带小图案的键，可能可以调音量、亮度。具体组合要看这台电脑的设置。浏览器通常读不到 Fn，请点击这里学习。",
+    "bytes": 860204
+  },
+  "MetaLeft": {
+    "url": "assets/teaching/MetaLeft.wav",
+    "text": "Win · Windows 键。键帽上像小窗户的图案。按一下，通常会打开开始菜单。按住它加空格可以切换输入法。",
+    "bytes": 622124
+  },
+  "AltLeft": {
+    "url": "assets/teaching/AltLeft.wav",
+    "text": "Alt · 组合辅助键。它常和别的键一起用。按住 Alt 再按 Tab，可以在已经打开的窗口之间切换。",
+    "bytes": 560684
+  },
+  "Space": {
+    "url": "assets/teaching/Space.wav",
+    "text": "Space · 空格键。单词之间要留一个小空位，就用拇指按它。中文输入法里，它还常用来选择第一个汉字。",
+    "bytes": 583724
+  },
+  "AltRight": {
+    "url": "assets/teaching/AltRight.wav",
+    "text": "Alt · 组合辅助键。配合其他键使用，具体效果由正在使用的软件决定。",
+    "bytes": 445484
+  },
+  "ContextMenu": {
+    "url": "assets/teaching/ContextMenu.wav",
+    "text": "专用键 · 电脑的小助手。照片上这个键带有专用图标。它的功能由电脑厂商和软件决定，可能打开菜单或电脑助手。",
+    "bytes": 798764
+  },
+  "PageUp": {
+    "url": "assets/teaching/PageUp.wav",
+    "text": "Page Up · 向上翻页。看长文章时，帮助你向上翻一页。Page 是页面，Up 是向上。",
+    "bytes": 514604
+  },
+  "ArrowUp": {
+    "url": "assets/teaching/ArrowUp.wav",
+    "text": "↑ · 上方向键。把光标或选中的东西往上移动。",
+    "bytes": 322604
+  },
+  "PageDown": {
+    "url": "assets/teaching/PageDown.wav",
+    "text": "Page Down · 向下翻页。帮助你向下翻一页。Down 的意思是向下。",
+    "bytes": 445484
+  },
+  "ArrowLeft": {
+    "url": "assets/teaching/ArrowLeft.wav",
+    "text": "← · 左方向键。把光标或选中的东西往左移动一步。",
+    "bytes": 345644
+  },
+  "ArrowDown": {
+    "url": "assets/teaching/ArrowDown.wav",
+    "text": "↓ · 下方向键。把光标或选中的东西往下移动。",
+    "bytes": 361004
+  },
+  "ArrowRight": {
+    "url": "assets/teaching/ArrowRight.wav",
+    "text": "→ · 右方向键。把光标或选中的东西往右移动一步。",
+    "bytes": 491564
+  },
+  "NumLock": {
+    "url": "assets/teaching/NumLock.wav",
+    "text": "Num Lock · 数字锁定。右边小键盘的开关。打开时按出数字，关闭时有些数字键变成方向或翻页。",
+    "bytes": 637484
+  },
+  "NumpadDivide": {
+    "url": "assets/teaching/NumpadDivide.wav",
+    "text": "小键盘除号。算除法时可以用它，右手中指按。",
+    "bytes": 361004
+  },
+  "NumpadMultiply": {
+    "url": "assets/teaching/NumpadMultiply.wav",
+    "text": "小键盘乘号。计算时，星号常表示乘法，右手无名指按。",
+    "bytes": 407084
+  },
+  "NumpadSubtract": {
+    "url": "assets/teaching/NumpadSubtract.wav",
+    "text": "小键盘减号，右手小指按。",
+    "bytes": 215084
+  },
+  "Numpad7": {
+    "url": "assets/teaching/Numpad7.wav",
+    "text": "小键盘数字 7。请先打开 Num Lock。用右食指轻轻按，按完回到四、五、六。",
+    "bytes": 599084
+  },
+  "Numpad8": {
+    "url": "assets/teaching/Numpad8.wav",
+    "text": "小键盘数字 8。请先打开 Num Lock。用右中指轻轻按，按完回到四、五、六。",
+    "bytes": 506924
+  },
+  "Numpad9": {
+    "url": "assets/teaching/Numpad9.wav",
+    "text": "小键盘数字 9。请先打开 Num Lock。用右无名指轻轻按，按完回到四、五、六。",
+    "bytes": 560684
+  },
+  "Numpad4": {
+    "url": "assets/teaching/Numpad4.wav",
+    "text": "小键盘数字 4。右食指的家。先打开 Num Lock，再按数字。",
+    "bytes": 353324
+  },
+  "Numpad5": {
+    "url": "assets/teaching/Numpad5.wav",
+    "text": "小键盘数字 5。右中指的家，键帽上有小凸起。先打开 Num Lock，再按数字。",
+    "bytes": 529964
+  },
+  "Numpad6": {
+    "url": "assets/teaching/Numpad6.wav",
+    "text": "小键盘数字 6。右无名指的家。先打开 Num Lock，再按数字。",
+    "bytes": 453164
+  },
+  "Numpad1": {
+    "url": "assets/teaching/Numpad1.wav",
+    "text": "小键盘数字 1。用右食指轻按，按完回家。",
+    "bytes": 330284
+  },
+  "Numpad2": {
+    "url": "assets/teaching/Numpad2.wav",
+    "text": "小键盘数字 2。用右中指轻按，按完回家。",
+    "bytes": 299564
+  },
+  "Numpad3": {
+    "url": "assets/teaching/Numpad3.wav",
+    "text": "小键盘数字 3。用右无名指轻按，按完回家。",
+    "bytes": 330284
+  },
+  "NumpadAdd": {
+    "url": "assets/teaching/NumpadAdd.wav",
+    "text": "小键盘加号。计算加法时用它，右手小指按。",
+    "bytes": 330284
+  },
+  "NumpadEnter": {
+    "url": "assets/teaching/NumpadEnter.wav",
+    "text": "Enter · 小键盘回车。它和主键盘的回车本领一样，右手小指可以按到它。",
+    "bytes": 414764
+  },
+  "Numpad0": {
+    "url": "assets/teaching/Numpad0.wav",
+    "text": "小键盘数字零。右手拇指按，先打开 Num Lock。",
+    "bytes": 314924
+  },
+  "NumpadDecimal": {
+    "url": "assets/teaching/NumpadDecimal.wav",
+    "text": "小键盘小数点。例如三点五写成 3.5。右手无名指按。",
+    "bytes": 476204
+  },
+  "F12": {
+    "url": "assets/teaching/F12.wav",
+    "text": "F12 是功能键。不同的软件会给它安排不同任务。在这台笔记本上，它和 Insert 在同一个键帽上，有时需要按住 Fn 配合。学习键盘时先认清它的位置，具体操作要看正在使用的软件。",
+    "bytes": 1274924
+  }
+}

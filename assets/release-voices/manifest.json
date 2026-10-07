@@ -1,0 +1,338 @@
+{
+  "english/a": {
+    "url": "assets/mimo/english-a.wav",
+    "text": "A."
+  },
+  "english/b": {
+    "url": "assets/mimo/english-b.wav",
+    "text": "B."
+  },
+  "english/c": {
+    "url": "assets/mimo/english-c.wav",
+    "text": "C."
+  },
+  "english/d": {
+    "url": "assets/mimo/english-d.wav",
+    "text": "D."
+  },
+  "english/e": {
+    "url": "assets/mimo/english-e.wav",
+    "text": "E."
+  },
+  "english/f": {
+    "url": "assets/mimo/english-f.wav",
+    "text": "F."
+  },
+  "english/g": {
+    "url": "assets/mimo/english-g.wav",
+    "text": "G."
+  },
+  "english/h": {
+    "url": "assets/mimo/english-h.wav",
+    "text": "H."
+  },
+  "english/i": {
+    "url": "assets/mimo/english-i.wav",
+    "text": "I."
+  },
+  "english/j": {
+    "url": "assets/mimo/english-j.wav",
+    "text": "J."
+  },
+  "english/k": {
+    "url": "assets/mimo/english-k.wav",
+    "text": "K."
+  },
+  "english/l": {
+    "url": "assets/mimo/english-l.wav",
+    "text": "L."
+  },
+  "english/m": {
+    "url": "assets/mimo/english-m.wav",
+    "text": "M."
+  },
+  "english/n": {
+    "url": "assets/mimo/english-n.wav",
+    "text": "N."
+  },
+  "english/o": {
+    "url": "assets/mimo/english-o.wav",
+    "text": "O."
+  },
+  "english/p": {
+    "url": "assets/mimo/english-p.wav",
+    "text": "P."
+  },
+  "english/q": {
+    "url": "assets/mimo/english-q.wav",
+    "text": "Q."
+  },
+  "english/r": {
+    "url": "assets/mimo/english-r.wav",
+    "text": "R."
+  },
+  "english/s": {
+    "url": "assets/mimo/english-s.wav",
+    "text": "S."
+  },
+  "english/t": {
+    "url": "assets/mimo/english-t.wav",
+    "text": "T."
+  },
+  "english/u": {
+    "url": "assets/mimo/english-u.wav",
+    "text": "U."
+  },
+  "english/v": {
+    "url": "assets/mimo/english-v.wav",
+    "text": "V."
+  },
+  "english/w": {
+    "url": "assets/mimo/english-w.wav",
+    "text": "W."
+  },
+  "english/x": {
+    "url": "assets/mimo/english-x.wav",
+    "text": "X."
+  },
+  "english/y": {
+    "url": "assets/mimo/english-y.wav",
+    "text": "Y."
+  },
+  "english/z": {
+    "url": "assets/mimo/english-z.wav",
+    "text": "Z."
+  },
+  "english/0": {
+    "url": "assets/release-voices/english-0.wav",
+    "text": "zero"
+  },
+  "english/1": {
+    "url": "assets/release-voices/english-1.wav",
+    "text": "one"
+  },
+  "english/2": {
+    "url": "assets/release-voices/english-2.wav",
+    "text": "two"
+  },
+  "english/3": {
+    "url": "assets/release-voices/english-3.wav",
+    "text": "three"
+  },
+  "english/4": {
+    "url": "assets/release-voices/english-4.wav",
+    "text": "four"
+  },
+  "english/5": {
+    "url": "assets/release-voices/english-5.wav",
+    "text": "five"
+  },
+  "english/6": {
+    "url": "assets/release-voices/english-6.wav",
+    "text": "six"
+  },
+  "english/7": {
+    "url": "assets/release-voices/english-7.wav",
+    "text": "seven"
+  },
+  "english/8": {
+    "url": "assets/release-voices/english-8.wav",
+    "text": "eight"
+  },
+  "english/9": {
+    "url": "assets/release-voices/english-9.wav",
+    "text": "nine"
+  },
+  "keys/space": {
+    "url": "assets/release-voices/keys-space.wav",
+    "text": "空格"
+  },
+  "keys/semicolon": {
+    "url": "assets/release-voices/keys-semicolon.wav",
+    "text": "分号"
+  },
+  "keys/comma": {
+    "url": "assets/release-voices/keys-comma.wav",
+    "text": "逗号"
+  },
+  "keys/period": {
+    "url": "assets/release-voices/keys-period.wav",
+    "text": "句号"
+  },
+  "keys/question": {
+    "url": "assets/release-voices/keys-question.wav",
+    "text": "问号"
+  },
+  "keys/exclamation": {
+    "url": "assets/release-voices/keys-exclamation.wav",
+    "text": "感叹号"
+  },
+  "keys/shift": {
+    "url": "assets/release-voices/keys-shift.wav",
+    "text": "Shift，大写辅助键"
+  },
+  "keys/enter": {
+    "url": "assets/release-voices/keys-enter.wav",
+    "text": "回车"
+  },
+  "keys/backspace": {
+    "url": "assets/release-voices/keys-backspace.wav",
+    "text": "退格"
+  },
+  "keys/capslock": {
+    "url": "assets/release-voices/keys-capslock.wav",
+    "text": "大写锁定"
+  },
+  "keys/numlock": {
+    "url": "assets/release-voices/keys-numlock.wav",
+    "text": "数字锁定"
+  },
+  "keys/plus": {
+    "url": "assets/release-voices/keys-plus.wav",
+    "text": "加号"
+  },
+  "keys/minus": {
+    "url": "assets/release-voices/keys-minus.wav",
+    "text": "减号"
+  },
+  "keys/multiply": {
+    "url": "assets/release-voices/keys-multiply.wav",
+    "text": "乘号"
+  },
+  "keys/divide": {
+    "url": "assets/release-voices/keys-divide.wav",
+    "text": "除号"
+  },
+  "keys/escape": {
+    "url": "assets/release-voices/keys-escape.wav",
+    "text": "暂停"
+  },
+  "prompts/welcome": {
+    "url": "assets/release-voices/prompts-welcome.wav",
+    "text": "立夏，欢迎来到打字小花园。小兔已经准备好啦，我们一起慢慢练习吧。"
+  },
+  "prompts/guide": {
+    "url": "assets/release-voices/prompts-guide.wav",
+    "text": "左手食指摸到 F 的小凸起，右手食指摸到 J 的小凸起。其他手指自然排开。按一下，再回到自己的家。"
+  },
+  "prompts/start-home": {
+    "url": "assets/release-voices/prompts-start-home.wav",
+    "text": "把小手放回中间一排。看一看屏幕上的字母，用提示的手指轻轻按。"
+  },
+  "prompts/start-upper": {
+    "url": "assets/release-voices/prompts-start-upper.wav",
+    "text": "手指向上探一步，按完再回家。找准字母，慢慢来。"
+  },
+  "prompts/start-lower": {
+    "url": "assets/release-voices/prompts-start-lower.wav",
+    "text": "这次认识下面一排。按完一个键，小手记得回家。"
+  },
+  "prompts/start-pinyin": {
+    "url": "assets/release-voices/prompts-start-pinyin.wav",
+    "text": "照着屏幕打拼音，直接按英文字母。拼音之间的空格，用拇指轻轻按。"
+  },
+  "prompts/start-digits": {
+    "url": "assets/release-voices/prompts-start-digits.wav",
+    "text": "先认识字母上面一排的数字。看一看亮着的键，再用提示的手指按。"
+  },
+  "prompts/start-shift": {
+    "url": "assets/release-voices/prompts-start-shift.wav",
+    "text": "大写字母需要两个小帮手。另一只手的小指按住 Shift，再按字母，按完就松开。"
+  },
+  "prompts/start-symbols": {
+    "url": "assets/release-voices/prompts-start-symbols.wav",
+    "text": "逗号和句号也来做朋友啦。问号和感叹号，要请 Shift 帮忙。"
+  },
+  "prompts/start-numpad": {
+    "url": "assets/release-voices/prompts-start-numpad.wav",
+    "text": "数字小键盘在电脑右边。先打开 Num Lock。右食指放四，中指放五，无名指放六，零用右拇指。"
+  },
+  "prompts/mistake-1": {
+    "url": "assets/release-voices/prompts-mistake-1.wav",
+    "text": "没关系，看看亮着的键，慢慢再试一次。"
+  },
+  "prompts/mistake-2": {
+    "url": "assets/release-voices/prompts-mistake-2.wav",
+    "text": "别着急，小手先回家，认准这个键再按。"
+  },
+  "prompts/mistake-3": {
+    "url": "assets/release-voices/prompts-mistake-3.wav",
+    "text": "按错也没关系。认真找一找，你一定能找到它。"
+  },
+  "prompts/milestone-1": {
+    "url": "assets/release-voices/prompts-milestone-1.wav",
+    "text": "完成一个小目标啦！这朵小红花送给认真的你。"
+  },
+  "prompts/milestone-2": {
+    "url": "assets/release-voices/prompts-milestone-2.wav",
+    "text": "你又按准了八个键，小红花飞进小口袋啦！"
+  },
+  "prompts/complete-high": {
+    "url": "assets/release-voices/prompts-complete-high.wav",
+    "text": "太棒了！这一关完成啦，按得又稳又准。看看你收集的小红花吧。"
+  },
+  "prompts/complete-steady": {
+    "url": "assets/release-voices/prompts-complete-steady.wav",
+    "text": "做得很好，这一关完成啦！每一次认真，都让你进步一点点。"
+  },
+  "prompts/complete-kind": {
+    "url": "assets/release-voices/prompts-complete-kind.wav",
+    "text": "你坚持完成了这一关，真认真！我们再慢一点练，手指会越来越熟悉。"
+  },
+  "prompts/pause": {
+    "url": "assets/release-voices/prompts-pause.wav",
+    "text": "已经暂停啦。准备好之后，点继续练习就可以接着来。"
+  },
+  "prompts/idle": {
+    "url": "assets/release-voices/prompts-idle.wav",
+    "text": "我们先暂停一下。准备好后，再来继续照顾小花园。"
+  },
+  "prompts/break": {
+    "url": "assets/release-voices/prompts-break.wav",
+    "text": "小手已经认真练了一会儿，该休息啦。站起来动一动，看看远处，再回来继续。"
+  },
+  "prompts/ime": {
+    "url": "assets/release-voices/prompts-ime.wav",
+    "text": "现在在练键位。请爸爸妈妈帮你切到英文输入，再点练习区继续。"
+  },
+  "prompts/capslock": {
+    "url": "assets/release-voices/prompts-capslock.wav",
+    "text": "大写锁定开着，请关掉 Caps Lock。练大写字母时，再用 Shift 帮忙。"
+  },
+  "prompts/numlock": {
+    "url": "assets/release-voices/prompts-numlock.wav",
+    "text": "先按一下 Num Lock，打开右边的数字小键盘，再来试一次。"
+  },
+  "prompts/top-row": {
+    "url": "assets/release-voices/prompts-top-row.wav",
+    "text": "这一关请用电脑右边的数字小键盘，找一找右边的数字键。"
+  },
+  "prompts/backspace": {
+    "url": "assets/release-voices/prompts-backspace.wav",
+    "text": "按错的字没有写进去，不用删除。直接按正确的键就好。"
+  },
+  "prompts/repeat": {
+    "url": "assets/release-voices/prompts-repeat.wav",
+    "text": "每次轻按一下，松开后，再按下一个。"
+  },
+  "prompts/shift-help": {
+    "url": "assets/release-voices/prompts-shift-help.wav",
+    "text": "这个键需要 Shift 帮忙。用另一只手的小指按住 Shift，再试一次。"
+  },
+  "prompts/release-shift": {
+    "url": "assets/release-voices/prompts-release-shift.wav",
+    "text": "先松开 Shift，再直接按这个键就好。"
+  },
+  "prompts/review": {
+    "url": "assets/release-voices/prompts-review.wav",
+    "text": "这些键以前有一点难。今天我们再认识一次，不着急，慢慢按准。"
+  },
+  "prompts/rest-done": {
+    "url": "assets/release-voices/prompts-rest-done.wav",
+    "text": "休息好啦，我们继续。从屏幕上这个字母开始。"
+  },
+  "prompts/daily-done": {
+    "url": "assets/release-voices/prompts-daily-done.wav",
+    "text": "今天的小目标完成啦！你已经很认真了，记得给小手放个假。"
+  }
+}

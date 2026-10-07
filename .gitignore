@@ -1,0 +1,10 @@
+.private/
+.qa/
+backups/
+releases/
+dist/
+.wrangler/
+cloud/.wrangler/
+node_modules/
+.dev.vars*
+*.log

@@ -1,0 +1,102 @@
+{
+  "word-0": {
+    "url": "assets/study/word-0.wav",
+    "text": "山",
+    "bytes": 36044
+  },
+  "word-1": {
+    "url": "assets/study/word-1.wav",
+    "text": "水",
+    "bytes": 39884
+  },
+  "word-2": {
+    "url": "assets/study/word-2.wav",
+    "text": "猫",
+    "bytes": 39884
+  },
+  "word-3": {
+    "url": "assets/study/word-3.wav",
+    "text": "狗",
+    "bytes": 27404
+  },
+  "word-4": {
+    "url": "assets/study/word-4.wav",
+    "text": "花",
+    "bytes": 21644
+  },
+  "word-5": {
+    "url": "assets/study/word-5.wav",
+    "text": "家",
+    "bytes": 24524
+  },
+  "word-6": {
+    "url": "assets/study/word-6.wav",
+    "text": "风",
+    "bytes": 25484
+  },
+  "word-7": {
+    "url": "assets/study/word-7.wav",
+    "text": "雨",
+    "bytes": 23564
+  },
+  "word-8": {
+    "url": "assets/study/word-8.wav",
+    "text": "月",
+    "bytes": 25484
+  },
+  "word-9": {
+    "url": "assets/study/word-9.wav",
+    "text": "云",
+    "bytes": 30284
+  },
+  "word-10": {
+    "url": "assets/study/word-10.wav",
+    "text": "书",
+    "bytes": 30044
+  },
+  "word-11": {
+    "url": "assets/study/word-11.wav",
+    "text": "天",
+    "bytes": 44684
+  },
+  "word-12": {
+    "url": "assets/study/word-12.wav",
+    "text": "好",
+    "bytes": 26444
+  },
+  "word-13": {
+    "url": "assets/study/word-13.wav",
+    "text": "学",
+    "bytes": 35084
+  },
+  "word-14": {
+    "url": "assets/study/word-14.wav",
+    "text": "习",
+    "bytes": 37964
+  },
+  "word-15": {
+    "url": "assets/study/word-15.wav",
+    "text": "树",
+    "bytes": 25484
+  },
+  "word-16": {
+    "url": "assets/study/word-16.wav",
+    "text": "米",
+    "bytes": 30284
+  },
+  "word-17": {
+    "url": "assets/study/word-17.wav",
+    "text": "鱼",
+    "bytes": 34844
+  },
+  "word-18": {
+    "url": "assets/study/word-18.wav",
+    "text": "女",
+    "bytes": 43724
+  },
+  "word-19": {
+    "url": "assets/study/word-19.wav",
+    "text": "绿",
+    "bytes": 16844
+  }
+}
